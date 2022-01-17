@@ -1,0 +1,14 @@
+.columnForm {
+    padding: 10px;
+    text-align: center;
+}
+
+.span {
+    margin: 5px;
+}
+
+@media (max-width: 767px) {
+    .columnForm {
+        display: block;
+    }
+}
